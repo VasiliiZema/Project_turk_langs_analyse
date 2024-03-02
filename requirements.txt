@@ -1,0 +1,9 @@
+fasttext @ git+https://github.com/facebookresearch/fastText.git@b733943e84263f432fa47588643822194ee03dd1
+numpy==1.26.3
+pandas==2.1.4
+pybind11==2.11.1
+python-dateutil==2.8.2
+pytz==2023.3.post1
+razdel==0.5.0
+six==1.16.0
+tzdata==2023.4
